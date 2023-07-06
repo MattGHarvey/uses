@@ -8,8 +8,8 @@ Stuff I use to get things done
  ## Hardware
  
  - Apple Studio Mac (M2 Max, 96 GB RAM, 2 TB SDD)  
- - Apple Studio Display
  - Apple MacBook Pro (M1 Pro, 32 GB RAM, 1 TB SDD)
+ - Apple Studio Display
  - LG UltraFine Monitors (2)
  - Apple Airpods Pro
  - Apple Airpods Max

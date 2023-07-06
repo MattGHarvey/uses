@@ -14,14 +14,22 @@ Stuff I use to get things done
  - Apple Airpods Max
  - Logitech MX Mechanical Keyboard
  - Logitech MX Master 3S Mouse
+ - Apple iPad Pro (12.9", M2, 512 GB RAM)
 ## Software
  - Adobe Lightroom Classic
  - Adobe Photoshop
  - Visual Studio Code
  - ON1 Photo Suite
+ - Microsoft Office 365
 ## Everyday Carry
  - **Phone**: Apple iPhone 13 Pro Max
  - **Sound**: Apple Airpods Pro
  - **Watch**: Apple Watch Series 5
 ## Transport
  - 2021 Ford Bronco
+## Entertainment
+ - Plex/Plex Server
+ - Sonaar
+ - Radaar
+ - Apple TV
+ - Apple Music

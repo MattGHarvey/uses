@@ -11,7 +11,6 @@ Stuff I use to get things done
  - Apple MacBook Pro (M1 Pro, 32 GB RAM, 1 TB SDD)
  - Apple Studio Display
  - LG UltraFine Monitors (2)
- - Apple Airpods Pro
  - Apple Airpods Max
  - Logitech MX Mechanical Keyboard
  - Logitech MX Master 3S Mouse
@@ -20,3 +19,7 @@ Stuff I use to get things done
  - Adobe Photoshop
  - Visual Studio Code
  - ON1 Photo Suite
+## Everyday Carry
+ - **Phone**: Apple iPhone 13 Pro Max
+ - **Sound**: Apple Airpods Pro
+ - **Watch**: Apple Watch Series 5

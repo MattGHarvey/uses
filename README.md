@@ -6,7 +6,6 @@ Stuff I use to get things done
  - Sony RX100vii
  
  ## Hardware
- 
  - Apple Mac Studio (M2 Max, 96 GB RAM, 2 TB SDD)  
  - Apple MacBook Pro (M1 Pro, 32 GB RAM, 1 TB SDD)
  - Apple Studio Display
@@ -15,12 +14,22 @@ Stuff I use to get things done
  - Logitech MX Mechanical Keyboard
  - Logitech MX Master 3S Mouse
  - Apple iPad Pro (12.9", M2, 512 GB RAM)
-## Software
+## Dev
+ - Visual Studio Code
+ - Visual Studio 2022
+ - BBEdit
+## Work
+ - Microsoft Office 365
+ - RingCentral
+ - Slack
+ - ItsyCal
+ - Dropbox
+ - OneDrive
+## FTP
+ - FileZilla
+## Photo Processing
  - Adobe Lightroom Classic for photo asset management and processing
  - Adobe Photoshop for anything I can't do in Lightroom
- - Visual Studio Code for dev
- - Microsoft Office 365 for work-related stuff
- - Bitwarden for Password Management
 ## Everyday Carry
  - **Phone**: Apple iPhone 13 Pro Max
  - **Sound**: Apple Airpods Pro
@@ -33,7 +42,13 @@ Stuff I use to get things done
  - Radaar
  - Apple TV
  - Apple Music
-## VPN
+## VPN/Security
  - Mullvad VPN 
  - OpenVPN
+ - Bitwarden
+## Utilities
+ - BackBlaze
+ - Rectangle
+ - AltTab
+ - Pure Paste
    

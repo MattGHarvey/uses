@@ -52,4 +52,9 @@ Stuff I use to get things done
  - Rectangle
  - AltTab
  - Pure Paste
+ - RayCast
+ - iTerm2
+ - Espanso
+ - Plash
+ - LuLu
    

@@ -17,7 +17,7 @@ Stuff I use to get things done
 ## Dev
  - Visual Studio Code
  - Visual Studio 2022
- - BBEdit
+ - Sublime Text
 ## Work
  - Microsoft Office 365
  - RingCentral
@@ -42,6 +42,7 @@ Stuff I use to get things done
  - Radaar
  - Apple TV
  - Apple Music
+ - Kindle Paperwhite
 ## VPN/Security
  - Mullvad VPN 
  - OpenVPN

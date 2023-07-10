@@ -16,11 +16,11 @@ Stuff I use to get things done
  - Logitech MX Master 3S Mouse
  - Apple iPad Pro (12.9", M2, 512 GB RAM)
 ## Software
- - Adobe Lightroom Classic
- - Adobe Photoshop
- - Visual Studio Code
- - ON1 Photo Suite
- - Microsoft Office 365
+ - Adobe Lightroom Classic for photo asset management and processing
+ - Adobe Photoshop for anything I can't do in Lightroom
+ - Visual Studio Code for dev
+ - Microsoft Office 365 for work-related stuff
+ - Bitwarden for Password Management
 ## Everyday Carry
  - **Phone**: Apple iPhone 13 Pro Max
  - **Sound**: Apple Airpods Pro

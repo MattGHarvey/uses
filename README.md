@@ -66,4 +66,6 @@ Stuff I use to get things done
  - [Plash](https://github.com/sindresorhus/Plash)https://github.com/sindresorhus/Plash
  - [LuLu](https://objective-see.org/products/lulu.html)https://objective-see.org/products/lulu.html
  - [Fig](https://fig.io/)https://fig.io/
+## Hosting
+ - [A2 Hosting](https://www.a2hosting.com/)https://www.a2hosting.com/
    

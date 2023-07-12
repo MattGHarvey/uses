@@ -18,9 +18,11 @@ Stuff I use to get things done
  - [Visual Studio Code](https://code.visualstudio.com/)
  - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
  - [Sublime Text](https://www.sublimetext.com/)
+ - [GitHub Desktop](https://desktop.github.com/)
 ## Work
  - [Microsoft Office 365](https://www.office.com/)
  - [RingCentral](https://www.ringcentral.com/)
+ - [Notion](https://www.notion.so/)
  - [Slack](https://slack.com/)
  - [ItsyCal](https://github.com/sfsam/Itsycal)
  - [Dropbox](https://www.dropbox.com/)

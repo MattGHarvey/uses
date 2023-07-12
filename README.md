@@ -43,6 +43,7 @@ Stuff I use to get things done
  - [Apple TV](https://www.apple.com/tv-home/)
  - [Apple Music](https://www.apple.com/apple-music/)
  - [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249)
+ - [Pocket Casts](https://pocketcasts.com/)
 ## Podcasts
  - [99% Invisible](https://99percentinvisible.org/)
  - [ATP](https://atp.fm/)

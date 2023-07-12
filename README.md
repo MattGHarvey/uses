@@ -63,9 +63,9 @@ Stuff I use to get things done
  - [Pure Paste](https://sindresorhus.com/pure-paste)
  - [RayCast](https://www.raycast.com/)
  - [iTerm2](https://iterm2.com/)
- - [Plash](https://github.com/sindresorhus/Plash)https://github.com/sindresorhus/Plash
- - [LuLu](https://objective-see.org/products/lulu.html)https://objective-see.org/products/lulu.html
- - [Fig](https://fig.io/)https://fig.io/
+ - [Plash](https://github.com/sindresorhus/Plash)
+ - [LuLu](https://objective-see.org/products/lulu.html)
+ - [Fig](https://fig.io/)
 ## Hosting
  - [A2 Hosting](https://www.a2hosting.com/)
    

@@ -33,9 +33,9 @@ Stuff I use to get things done
  - [Adobe Lightroom Classic](https://www.adobe.com/products/photoshop-lightroom-classic.html) for photo asset management and processing
  - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) for anything I can't do in Lightroom
 ## Everyday Carry
- - **Phone**: [Apple iPhone 13 Pro Max](https://www.apple.com/by/iphone-13-pro/)
+ - **Phone**: [Apple iPhone 15 Pro Max](https://www.apple.com/iphone-15-pro/)
  - **Sound**: [Apple Airpods Pro](https://www.apple.com/airpods-pro/?campaign=true)
- - **Watch**: [Apple Watch](https://www.apple.com/watch/) Series 5
+ - **Watch**: [Apple Watch Ultra](https://www.apple.com/watch/) Series 2
 ## Transport
  - 2021 [Ford Bronco](https://www.ford.com/suvs/bronco/)
 ## Entertainment
@@ -68,6 +68,7 @@ Stuff I use to get things done
  - [Plash](https://github.com/sindresorhus/Plash)
  - [LuLu](https://objective-see.org/products/lulu.html)
  - [Fig](https://fig.io/)
+ - [Maccy](https://github.com/p0deje/Maccy)
 ## Hosting
  - [A2 Hosting](https://www.a2hosting.com/)
    

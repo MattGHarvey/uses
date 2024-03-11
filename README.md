@@ -37,7 +37,7 @@ Stuff I use to get things done
  - **Sound**: [Apple Airpods Pro](https://www.apple.com/airpods-pro/?campaign=true)
  - **Watch**: [Apple Watch Ultra](https://www.apple.com/watch/) Series 2
 ## Transport
- - 2021 [Ford Bronco](https://www.ford.com/suvs/bronco/)
+ - 2023 [Ford Bronco](https://www.ford.com/suvs/bronco/)
 ## Entertainment
  - [Plex/Plex Server](https://www.plex.tv/)
  - [Sonarr](https://sonarr.tv/)

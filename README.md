@@ -29,6 +29,7 @@ Stuff I use to get things done
  - [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
 ## FTP
  - [FileZilla](https://filezilla-project.org/)
+ - [Transmit](https://panic.com/transmit/)
 ## Photo Processing
  - [Adobe Lightroom Classic](https://www.adobe.com/products/photoshop-lightroom-classic.html) for photo asset management and processing
  - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) for anything I can't do in Lightroom

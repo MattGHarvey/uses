@@ -3,9 +3,10 @@ Stuff I use to get things done
 ## Photo Gear
 
  - [FujiFilm X-T5](https://fujifilm-x.com/global/products/cameras/x-t5/)
+ - [FujiFilm X100vi](https://www.fujifilm-x.com/en-us/products/cameras/x100vi/)
+ - [FujiFilm X-T30 II](https://www.fujifilm-x.com/en-us/products/cameras/x-t30-ii/)
  - [Sony RX100vii](https://electronics.sony.com/imaging/compact-cameras/all-vlog-compact-cameras/p/dscrx100m7-b)
- 
- ## Hardware
+  ## Hardware
  - [Apple Mac Studio](https://www.apple.com/mac-studio/) (M2 Max, 96 GB RAM, 2 TB SDD)  
  - [Apple MacBook Pro](https://www.apple.com/macbook-pro/) (M1 Pro, 32 GB RAM, 1 TB SDD)
  - [Apple Studio Display](https://www.apple.com/studio-display/)
@@ -38,7 +39,7 @@ Stuff I use to get things done
  - **Sound**: [Apple Airpods Pro](https://www.apple.com/airpods-pro/?campaign=true)
  - **Watch**: [Apple Watch Ultra](https://www.apple.com/watch/) Series 2
 ## Transport
- - 2023 [Ford Bronco](https://www.ford.com/suvs/bronco/)
+ - 2025 [Ford Bronco Badlands Sasquatch](https://www.ford.com/suvs/bronco/)
 ## Entertainment
  - [Plex/Plex Server](https://www.plex.tv/)
  - [Sonarr](https://sonarr.tv/)
@@ -54,7 +55,8 @@ Stuff I use to get things done
  - [Omnibus](https://www.omnibusproject.com/)
  - [Darknet Diaries](https://darknetdiaries.com/)
  - [CoRecursive](https://corecursive.com/)
-   
+ - [The Fujicast](https://www.fujicast.co.uk/)
+ - [The Photowalk](https://photowalk.show/)   
 ## VPN/Security
  - [Mullvad VPN](https://mullvad.net/en) 
  - [OpenVPN](https://openvpn.net/)

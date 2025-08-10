@@ -14,7 +14,7 @@ Stuff I use to get things done
  - [Apple Airpods Max](https://www.apple.com/airpods-max/)
  - [Logitech MX Mechanical Keyboard](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html)
  - [Logitech MX Master 3S Mouse](https://www.logitech.com/en-us/products/mice/mx-master-3s.html)
- - [Apple iPad Pro](https://www.apple.com/ipad-pro/) (12.9", M2, 512 GB RAM)
+ - [Apple iPad Pro](https://www.apple.com/ipad-pro/) (12.9", M2, 512 GB Storage)
 ## Dev
  - [Visual Studio Code](https://code.visualstudio.com/)
  - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
